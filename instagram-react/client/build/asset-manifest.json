@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/instagram-replica/static/css/main.3ed569fe.chunk.css",
+    "main.js": "/instagram-replica/static/js/main.5c694e22.chunk.js",
+    "main.js.map": "/instagram-replica/static/js/main.5c694e22.chunk.js.map",
+    "runtime-main.js": "/instagram-replica/static/js/runtime-main.b27fc427.js",
+    "runtime-main.js.map": "/instagram-replica/static/js/runtime-main.b27fc427.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/instagram-replica/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.0f4e1e32.chunk.js": "/instagram-replica/static/js/2.0f4e1e32.chunk.js",
+    "static/js/2.0f4e1e32.chunk.js.map": "/instagram-replica/static/js/2.0f4e1e32.chunk.js.map",
+    "index.html": "/instagram-replica/index.html",
+    "precache-manifest.ad9392f0492421b96a9178af601a3a03.js": "/instagram-replica/precache-manifest.ad9392f0492421b96a9178af601a3a03.js",
+    "service-worker.js": "/instagram-replica/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/instagram-replica/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.3ed569fe.chunk.css.map": "/instagram-replica/static/css/main.3ed569fe.chunk.css.map",
+    "static/js/2.0f4e1e32.chunk.js.LICENSE.txt": "/instagram-replica/static/js/2.0f4e1e32.chunk.js.LICENSE.txt",
+    "static/media/body.css": "/instagram-replica/static/media/logo.6e8c6632.png",
+    "static/media/rand1.jpg": "/instagram-replica/static/media/rand1.e021b519.jpg",
+    "static/media/rand2.jpg": "/instagram-replica/static/media/rand2.0e28de83.jpg",
+    "static/media/rand3.jpg": "/instagram-replica/static/media/rand3.04ad6794.jpg",
+    "static/media/rand4.jpg": "/instagram-replica/static/media/rand4.7f133fce.jpg",
+    "static/media/rand5.jpg": "/instagram-replica/static/media/rand5.9f167a6e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b27fc427.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.0f4e1e32.chunk.js",
+    "static/css/main.3ed569fe.chunk.css",
+    "static/js/main.5c694e22.chunk.js"
+  ]
+}

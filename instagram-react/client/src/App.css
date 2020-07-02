@@ -1,0 +1,69 @@
+html,
+body,
+#root {
+  height: 100%;
+}
+#root {
+  text-align: center;
+}
+body {
+  background: rgba(var(--d87, 255, 255, 255), 1);
+  overflow-y: scroll;
+}
+.App {
+  background: #fff;
+  display: inline-block;
+  text-align: center;
+  position: relative;
+  margin-top: 50px;
+  height: 500px;
+  width: 350px;
+  background-color: #fff;
+  background-color: rgba(var(--d87, 255, 255, 255), 1);
+  border: 1px solid #dbdbdb;
+  border: 1px solid rgba(var(--b6a, 219, 219, 219), 1);
+  border-radius: 1px;
+}
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  color: #262626;
+  color: rgba(var(--i1d, 38, 38, 38), 1);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif;
+  font-size: 14px;
+  line-height: 18px;
+}
+
+.content {
+  position: absolute;
+  padding-left: 500px;
+  padding-right: 500px;
+}
+
+.box1 {
+  float: left;
+  margin-left: auto;
+  height: fit-content;
+}
+.box2 {
+  float: left;
+  margin-left: 50px;
+  height: fit-content;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
